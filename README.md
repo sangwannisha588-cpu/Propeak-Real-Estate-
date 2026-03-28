@@ -164,7 +164,7 @@ The app will open at `http://localhost:8501`. Use the sidebar to navigate betwee
 ---
 
 ## 👥 Contributors
-
+made with love by team propeak
 - Anubhav
 - Amit
 - Nisa
